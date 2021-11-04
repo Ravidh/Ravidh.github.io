@@ -5,8 +5,8 @@
 MSc student in Brain sciences at Weizmann Instutite of Science.
 
 
-* [Course notes](https://github.com/Ravidh/Ravidh.github.io/blob/main/notes.md)
-* [Exercism](https://github.com/Ravidh/Ravidh.github.io/blob/main/exercism_exercises.md)
+* [Course notes](docs/notes.md)
+* [Exercism](docs/exercism_exercises.md)
 
 
 
