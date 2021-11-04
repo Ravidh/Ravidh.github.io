@@ -1,4 +1,4 @@
-# solved Exercises on [Exercism](https://exercism.org/dashboard)
+# Solved Exercises on [Exercism](https://exercism.org/dashboard)
 
 ### [Little Sister's Vocabulary](https://exercism.org/tracks/python/exercises/little-sisters-vocab/iterations)
 
