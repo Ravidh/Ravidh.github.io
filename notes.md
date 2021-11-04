@@ -14,7 +14,7 @@ git status - which files has changed
 
 git diff - what are the changes that were made since the last commit
 
-git add [plan.md](http://plan.md) - mark this file to be in the staging area
+git add plan.md - mark this file to be in the staging area
 
 git commit -m "update plan" - commit: commit the files, -m: add the message in '_'. 
 
