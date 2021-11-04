@@ -5,8 +5,8 @@
 MSc student in Brain sciences at Weizmann Instutite of Science.
 
 
-* [Course notes](docs/notes.md)
-* [Exercism](docs/exercism_exercises.md)
+* [Course notes](notes.md)
+* [Exercism](exercism_exercises.md)
 
 
 
