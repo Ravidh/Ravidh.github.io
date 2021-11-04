@@ -1,16 +1,22 @@
 # Solved Exercises on [Exercism](https://exercism.org/dashboard)
 
 ### [Little Sister's Vocabulary](https://exercism.org/tracks/python/exercises/little-sisters-vocab/iterations)
+Mentored by IsaacG
 
 ### [Two Fer](https://exercism.org/tracks/python/exercises/two-fer/iterations)
+Mentored by NatiAris
 
 ### [Raindrops](https://exercism.org/tracks/python/exercises/raindrops/iterations?idx=2)
+Mentored by szabgab
 
 ### [High Scores](https://exercism.org/tracks/python/exercises/high-scores/iterations)
+Mentored by szabgab
 
 ### [Matrix](https://exercism.org/tracks/python/exercises/matrix/iterations)
+Mentored by IdanAdir
 
 ### [Hamming](https://exercism.org/tracks/python/exercises/hamming/iterations)
+Mentored by szabgab
 
 ### [Isogram](https://exercism.org/tracks/python/exercises/isogram/iterations)
 
